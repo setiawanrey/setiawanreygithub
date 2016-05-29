@@ -1,9 +1,9 @@
 # Site wide configuration
 
-title:            Ocu Kampar
+title:            setiawan rey
 locale:           en_US
 #url:              http://localhost:4000
-url:              http://kampar.github.io
+url:              http://yeya.github.io
 
 
 # Jekyll configuration
@@ -27,24 +27,24 @@ kramdown:
 
 # Site owner
 owner:
-  name: Muhammad Jazman
+  name: Raynaldi setiawan
   avatar: bio-photo.jpg
   bio: "Describe your self."
   email: 
   disqus-shortname: 
-  twitter: jazma101 #username
-  facebook: deactivate.py #username
+  twitter: rey30 #username
+  facebook: setiawan rey #username
   google:
-    plus: kampar #username
+    plus: setiawan rey #username
     analytics: 
     verify: 
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: kampar #username
+  github: setiawanrey#username
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
-  instagram: #username
+  instagram: setiawanrey#username
   lastfm: #username
   tumblr: #username
   pinterest: #username
